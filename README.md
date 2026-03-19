@@ -1,1 +1,1 @@
-# interviewace-desktop-releases
+# interviewpilot-desktop-releases
